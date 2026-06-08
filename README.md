@@ -64,7 +64,7 @@
 ### 🇨🇳 国内用户 (Domestic)
 * **微信 (WeChat):** `aipath01` （添加请备注“GitHub/咨询”）
 * **公众号/视频号:** 搜索 **【JulieAI之路】**
-* **抖音/b站:** 搜索 **【JulieAI之路】**
+* **抖音/b站/小红书:** 搜索 **【JulieAI之路】**
 
 ### 🌐 海外用户 (International)
 * **Business Email:** [julieaipath@gmail.com](mailto:julieaipath@gmail.com)
