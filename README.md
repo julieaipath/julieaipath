@@ -14,7 +14,7 @@
 我创办了 **【JulieAI之路】** 频道，旨在真实记录如何从零开始，利用生成式 AI 工具打通个人与商务工作流，解决真实的办公与生活难题。拒绝空谈，只聊实操！
 
 * 🌐 **个人官方网站:** [www.julieaipath.xyz](https://www.julieaipath.xyz/)
-* 📺 **YouTube 频道:** [JulieAI之路](https://www.youtube.com/@JulieAI之路) *(请将此处替换为您频道的实际准确链接)*
+* 📺 **YouTube 频道:** [JulieAI之路](https://www.youtube.com/@JulieAIPath) 
 * 📩 **商务合作 / Business Inquiry:** `julieaipath@gmail.com`
 
 ---
